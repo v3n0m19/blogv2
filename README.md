@@ -2,6 +2,18 @@
 
 This is a blog website developed using Next.js, Hygraph CMS, and TypeScript. It provides a platform for authors to publish and share their blog posts with readers.
 
+# Screenshots
+
+### Home Page
+![image](https://github.com/v3n0m19/blogv2/assets/92877178/34a404e0-a31b-4323-bdda-ee86eb7a1435)
+
+### Posts
+![image](https://github.com/v3n0m19/blogv2/assets/92877178/213c84af-47fd-4bb9-a632-f01ba67d5907)
+
+### Comment Section
+![image](https://github.com/v3n0m19/blogv2/assets/92877178/6d7b2a90-74d8-4d22-af63-ccc5aab66027)
+
+
 ## Features
 
 - Blog post creation, editing, and deletion using CMS
